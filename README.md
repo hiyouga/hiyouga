@@ -28,7 +28,7 @@ China, 100191
 - Natural Language: Chinese (Native); English (CET-6); Japanese (JLPT-N2)
 - Programming Language: Python; C++; Java; JavaScript; PHP; Go; Verilog; MATLAB; SQL; Solidity
 - Typesetting Language: LaTeX; Markdown
-- Programming Framework: PyTorch, TensorFlow, PaddlePaddle, Keras
+- Programming Framework: PyTorch; TensorFlow; PaddlePaddle; Keras
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=QQtacXUAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Yaowei), [Semantic Scholar](https://www.semanticscholar.org/author/113048894))
 
