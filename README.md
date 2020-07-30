@@ -1,9 +1,17 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyouga&hide=HTML" />
 
 # Yaowei Zheng
-### Undergraduate
+### *Undergraduate*
 
-Beijing Advanced Institution on Big Data and Brain Computing, Beihang University, Beijing, China
+Beijing Advanced Institution on Big Data and Brain Computing
+
+Beihang University
+
+37 Xueyuan Rd.
+
+Haidian Dist. Beijing
+
+China, 100191
 
 ## Education
 
@@ -11,9 +19,16 @@ Beijing Advanced Institution on Big Data and Brain Computing, Beihang University
 
 ## Research Interests
 
-- Machine Learning (Theory)
+- Deep Learning (Theory)
 - Adversarial Machine Learning
 - Natural Language Processing
+
+## Skills
+
+- Natural Language: Chinese (Native); English (CET-6); Japanese (JLPT-N2)
+- Programming Language: Python; C++; Java; JavaScript; PHP; Go; Verilog; MATLAB; SQL; Solidity
+- Typesetting Language: LaTeX; Markdown
+- Programming Framework: PyTorch, TensorFlow, PaddlePaddle, Keras
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=QQtacXUAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Yaowei), [Semantic Scholar](https://www.semanticscholar.org/author/113048894))
 
