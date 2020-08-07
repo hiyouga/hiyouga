@@ -1,9 +1,8 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyouga&hide=HTML" />
+<img align="right" src="https://github-readme-stats.hiyouga.vercel.app/api/top-langs/?username=hiyouga&hide=HTML" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyouga&hide=HTML" />
+<img align="right" src="https://komarev.com/ghpvc/?username=hiyouga" alt="hiyouga" />
 
 # Yaowei Zheng
 ### *Undergraduate*
-
-<p><img align="left" src="https://komarev.com/ghpvc/?username=hiyouga" alt="hiyouga" /></p><br>
 
 Beijing Advanced Institution on Big Data and Brain Computing
 
