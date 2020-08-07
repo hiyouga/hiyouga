@@ -3,7 +3,7 @@
 # Yaowei Zheng
 ### *Undergraduate*
 
-<img align="left" src="https://komarev.com/ghpvc/?username=hiyouga" alt="hiyouga" />
+<p><img align="left" src="https://komarev.com/ghpvc/?username=hiyouga" alt="hiyouga" /></p>
 
 Beijing Advanced Institution on Big Data and Brain Computing
 
