@@ -20,9 +20,8 @@ China, 100191
 
 ## Research Interests
 
-- Deep Learning (Theory)
-- Adversarial Machine Learning
 - Natural Language Processing
+- Adversarial Machine Learning
 
 ## Skills
 
