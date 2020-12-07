@@ -16,7 +16,7 @@ China, 100191
 
 ## Education
 
-- 2017.09-2021.06 ShenYuan Honors College, Beihang University B.Sc.
+- 2017.09-2021.06 School of Cyber Science and Technology, Beihang University B.Eng.
 
 ## Research Interests
 
@@ -36,3 +36,7 @@ China, 100191
 1. **Yaowei Zheng**, Richong Zhang and Yongyi Mao: Regularizing Neural Networks via Adversarial Model Perturbation. **Preprint**. [[arXiv]](https://arxiv.org/abs/2010.04925)[[Code]](https://github.com/hiyouga/AMP-Regularizer)
 1. **Yaowei Zheng**, Richong Zhang, Suyuchen Wang, Samuel Mensah and Yongyi Mao: Anchored Model Transfer and Soft Instance Transfer for Cross-Task Cross-Domain Learning: A Study Through Aspect-Level Sentiment Classification. **WWW2020**. [[DOI]](https://doi.org/10.1145/3366423.3380034)
 1. **Yaowei Zheng**, Richong Zhang, Samuel Mensah and Yongyi Mao: Replicate, Walk, and Stop on Syntax: an Effective Neural Network Model for Aspect-Level Sentiment Classification. **AAAI2020**. [[DOI]](https://doi.org/10.1609/aaai.v34i05.6517)[[Code]](https://github.com/hiyouga/RepWalk)
+
+## Academic Service
+
+Conference Reviewer: AAAI2021, NAACL-HLT2021, ACL-IJCNLP2021
