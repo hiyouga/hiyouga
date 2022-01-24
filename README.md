@@ -2,7 +2,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=hiyouga" alt="hiyouga" />
 
 # Yaowei Zheng
-### *Undergraduate*
+### *Master Student*
 
 Beijing Advanced Institution on Big Data and Brain Computing
 
@@ -32,6 +32,7 @@ China, 100191
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=QQtacXUAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Yaowei), [Semantic Scholar](https://www.semanticscholar.org/author/113048894), [ORCID](https://orcid.org/0000-0001-6028-8032))
 
+1. Qianben Chen, Richong Zhang, **Yaowei Zheng** and Yongyi Mao: Dual Contrastive Learning: Text Classification via Label-Aware Data Augmentation. Preprint. [[arXiv]](https://arxiv.org/abs/2201.08702)
 1. Xiaohui Guo, Richong Zhang, **Yaowei Zheng** and Yongyi Mao: Robust Regularization with Adversarial Labelling of Perturbed Samples. **IJCAI2021**. [[DOI]](https://doi.org/10.24963/ijcai.2021/343)[[arXiv]](https://arxiv.org/abs/2105.13745)
 1. **Yaowei Zheng**, Richong Zhang and Yongyi Mao: Regularizing Neural Networks via Adversarial Model Perturbation. **CVPR2021**. [[DOI]](https://doi.org/10.1109/CVPR46437.2021.00806)[[arXiv]](https://arxiv.org/abs/2010.04925)[[Code]](https://github.com/hiyouga/AMP-Regularizer)[[Poster]](https://github.com/hiyouga/AMP-Poster-Slides-LaTeX)[[Video]](https://youtu.be/yz1ZDA_h_hI)
 1. **Yaowei Zheng**, Richong Zhang, Suyuchen Wang, Samuel Mensah and Yongyi Mao: Anchored Model Transfer and Soft Instance Transfer for Cross-Task Cross-Domain Learning: A Study Through Aspect-Level Sentiment Classification. **WWW2020**. [[DOI]](https://doi.org/10.1145/3366423.3380034)
@@ -40,4 +41,3 @@ China, 100191
 ## Academic Service
 
 Conference Reviewer: AAAI2021, NAACL-HLT2021
-
