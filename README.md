@@ -33,7 +33,7 @@ China, 100191
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=QQtacXUAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Yaowei), [Semantic Scholar](https://www.semanticscholar.org/author/113048894), [ORCID](https://orcid.org/0000-0001-6028-8032))
 
-1. Richong Zhang, Qianben Chen, **Yaowei Zheng**, Samuel Mensah and Yongyi Mao: Aspect-level Sentiment Analysis via a Syntax-based Neural Network. IEEE/ACM Transactions on Audio, Speech, and Language Processing.
+1. Richong Zhang, Qianben Chen, **Yaowei Zheng**, Samuel Mensah and Yongyi Mao: Aspect-level Sentiment Analysis via a Syntax-based Neural Network. IEEE/ACM Transactions on Audio, Speech, and Language Processing. [[DOI]](https://doi.org/10.1109/TASLP.2022.3190731)
 1. Qianben Chen, Richong Zhang, **Yaowei Zheng** and Yongyi Mao: Dual Contrastive Learning: Text Classification via Label-Aware Data Augmentation. Preprint. [[arXiv]](https://arxiv.org/abs/2201.08702)[[Code]](https://github.com/hiyouga/dual-contrastive-learning)
 1. Xiaohui Guo, Richong Zhang, **Yaowei Zheng** and Yongyi Mao: Robust Regularization with Adversarial Labelling of Perturbed Samples. **IJCAI2021**. [[DOI]](https://doi.org/10.24963/ijcai.2021/343)[[arXiv]](https://arxiv.org/abs/2105.13745)
 1. **Yaowei Zheng**, Richong Zhang and Yongyi Mao: Regularizing Neural Networks via Adversarial Model Perturbation. **CVPR2021**. [[DOI]](https://doi.org/10.1109/CVPR46437.2021.00806)[[arXiv]](https://arxiv.org/abs/2010.04925)[[Code]](https://github.com/hiyouga/amp-regularizer)[[Poster]](https://github.com/hiyouga/amp-poster-slides-latex)[[Video]](https://youtu.be/yz1ZDA_h_hI)
@@ -42,4 +42,4 @@ China, 100191
 
 ## Academic Service
 
-Conference Reviewer: AAAI2021, NAACL-HLT2021
+Conference Reviewer: AAAI2021, NAACL-HLT2021, COLING 2022, EMNLP2022
