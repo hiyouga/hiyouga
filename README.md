@@ -2,22 +2,21 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=hiyouga" alt="hiyouga" />
 
 # Yaowei Zheng
-### *PhD Student*
+
+### *Ph.D. Student*
 
 Beijing Advanced Institution on Big Data and Brain Computing
 
-Beihang University
+Beihang University, 37 Xueyuan Rd.
 
-37 Xueyuan Rd.
+Haidian Dist., Beijing, China, 100191
 
-Haidian Dist., Beijing
-
-China, 100191
+[CV](cv.pdf) | [简历](cv_zh.pdf)
 
 ## Education
 
-- 2022.09-Present School of Computer Science and Engineering, Beihang University Ph.D.
-- 2017.09-2021.06 ShenYuan Honors College, Beihang University B.Eng.
+- 2022.09-*Present* School of Computer Science and Engineering, Beihang University Ph.D.
+- 2017.09-2021.06 Shen Yuan Honors College, Beihang University B.Eng.
 
 ## Research Interests
 
@@ -27,9 +26,9 @@ China, 100191
 ## Skills
 
 - Natural Language: Chinese (Native); English (CET-6); Japanese (JLPT-N2)
-- Programming Language: **Python**; C++; Java; JavaScript; PHP; Go; Verilog; MATLAB; SQL; Solidity
+- Programming Language: **Python**; C++; Java; JavaScript; PHP; Go; Verilog HDL; MATLAB
 - Typesetting Language: **LaTeX**; Markdown
-- Programming Framework: **PyTorch**; TensorFlow; PaddlePaddle; Keras
+- Programming Framework: **PyTorch**; TensorFlow
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=QQtacXUAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Yaowei), [Semantic Scholar](https://www.semanticscholar.org/author/113048894), [ORCID](https://orcid.org/0000-0001-6028-8032))
 
@@ -42,4 +41,5 @@ China, 100191
 
 ## Academic Service
 
-Conference Reviewer: AAAI2021, NAACL-HLT2021, COLING 2022, EMNLP2022
+- Conference Reviewer: AAAI2021, NAACL-HLT2021, COLING2022
+- Journal Reviewer: Neural Computation
