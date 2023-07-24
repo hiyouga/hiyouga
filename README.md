@@ -5,13 +5,9 @@
 
 ### *Ph.D. Student*
 
-Beijing Advanced Institution on Big Data and Brain Computing
-
 Beihang University, 37 Xueyuan Rd.
 
 Haidian Dist., Beijing, China, 100191
-
-[CV](cv.pdf) | [简历](cv_zh.pdf)
 
 ## Education
 
