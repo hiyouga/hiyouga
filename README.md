@@ -3,11 +3,13 @@
 
 # Yaowei Zheng
 
-### *Ph.D. Student*
+*Ph.D. Student*
 
-Beihang University, 37 Xueyuan Rd.
+Beihang University
 
-Haidian Dist., Beijing, China, 100191
+37 Xueyuan Rd., Haidian Dist.
+
+Beijing, China, 100191
 
 ## Education
 
@@ -37,5 +39,5 @@ Haidian Dist., Beijing, China, 100191
 
 ## Academic Service
 
-- Conference Reviewer: AAAI2021, NAACL-HLT2021, COLING2022
+- Conference Reviewer: AAAI, EMNLP, NAACL, COLING
 - Journal Reviewer: Neural Computation
