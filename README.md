@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.hiyouga.vercel.app/api/top-langs/?username=hiyouga&hide=HTML" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyouga&hide=HTML" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hiyouga&show_icons=true&theme=transparent" alt="stat" />
 <img align="right" src="https://komarev.com/ghpvc/?username=hiyouga" alt="hiyouga" />
 
 # Yaowei Zheng
@@ -31,7 +31,7 @@ Beijing, China, 100191
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=QQtacXUAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Yaowei), [Semantic Scholar](https://www.semanticscholar.org/author/113048894), [ORCID](https://orcid.org/0000-0001-6028-8032))
 
 1. **Yaowei Zheng**, Richong Zhang, Junhao Zhang, Yanhan Ye, Zheyan Luo and Yongqiang Ma: LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models. Preprint. [[arXiv]](https://arxiv.org/abs/2403.13372)
-1. Junfan Chen, Richong Zhang, **Yaowei Zheng**, Qianben Chen, Chunming Hu and Yongyi Mao: DualCL: Principled Supervised Contrastive Learning as Mutual Information Maximization for Text Classification. **WWW2024**. [[arXiv]](https://arxiv.org/abs/2201.08702)[[Code]](https://github.com/hiyouga/dual-contrastive-learning)
+1. Junfan Chen, Richong Zhang, **Yaowei Zheng**, Qianben Chen, Chunming Hu and Yongyi Mao: DualCL: Principled Supervised Contrastive Learning as Mutual Information Maximization for Text Classification. **WWW2024**. [[DOI]](https://doi.org/10.1145/3589334.3645668)[[arXiv]](https://arxiv.org/abs/2201.08702)[[Code]](https://github.com/hiyouga/dual-contrastive-learning)
 1. Richong Zhang, Qianben Chen, **Yaowei Zheng**, Samuel Mensah and Yongyi Mao: Aspect-level Sentiment Analysis via a Syntax-based Neural Network. IEEE/ACM Transactions on Audio, Speech, and Language Processing. [[DOI]](https://doi.org/10.1109/TASLP.2022.3190731)
 1. Xiaohui Guo, Richong Zhang, **Yaowei Zheng** and Yongyi Mao: Robust Regularization with Adversarial Labelling of Perturbed Samples. **IJCAI2021**. [[DOI]](https://doi.org/10.24963/ijcai.2021/343)[[arXiv]](https://arxiv.org/abs/2105.13745)
 1. **Yaowei Zheng**, Richong Zhang and Yongyi Mao: Regularizing Neural Networks via Adversarial Model Perturbation. **CVPR2021**. [[DOI]](https://doi.org/10.1109/CVPR46437.2021.00806)[[arXiv]](https://arxiv.org/abs/2010.04925)[[Code]](https://github.com/hiyouga/amp-regularizer)[[Poster]](https://github.com/hiyouga/amp-poster-slides-latex)[[Video]](https://youtu.be/yz1ZDA_h_hI)
