@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hiyouga&show_icons=true&theme=transparent" alt="stat" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hiyouga&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 <img align="right" src="https://komarev.com/ghpvc/?username=hiyouga" alt="hiyouga" />
 
 # Yaowei Zheng
